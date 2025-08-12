@@ -12,3 +12,6 @@ print(my_list)
 
 my_list.extend([50, 60, 70])
 print(my_list)  
+
+my_list.pop()
+print(my_list)
