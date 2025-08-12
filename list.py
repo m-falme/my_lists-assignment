@@ -15,3 +15,11 @@ print(my_list)
 
 my_list.pop()
 print(my_list)
+
+
+my_list.sort()
+print(my_list) 
+
+index_30 = my_list.index(30)
+print(index_30)
+
